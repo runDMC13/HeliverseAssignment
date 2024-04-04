@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HeliverseAssignment</string>
+    <string name="are_you_sure">By clicking Continue, I\nAgree That I Am At Least \n14 Years Old</string>
+    <string name="yes_button">Yes, Continue</string>
+
+</resources>
